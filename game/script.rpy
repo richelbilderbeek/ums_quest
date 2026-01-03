@@ -7,6 +7,7 @@ transform scale(ratio):
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 define richel = Character("Richèl", color = "#f80")
+define store_bjoern = Character("Store Björn", color = "#00f")
 
 # The game starts here.
 label start:
@@ -47,18 +48,18 @@ label outside_after_slack:
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
-    show richel at scale(3.0), right
+    show store_bjoern at scale(2.0), right
 
     # These display lines of dialogue.
-    richel "Välkommen till Uppsala Makerspace! Jag öppnar dörren för dig!"
+    store_bjoern "Välkommen till Uppsala Makerspace! Jag öppnar dörren för dig!"
 
     "Killen öppnar dörren. Du går in."
 
-    richel "Ha det så kul!"
+    store_bjoern "Ha det så kul!"
 
     "Killen lämnar dig genast"
 
-    hide richel
+    hide store_bjoern
 
 label hallway:
 
