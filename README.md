@@ -1,2 +1,3 @@
-# ums_question
-Uppsala Makerspace Quest: a Ren'Py game
+# Uppsala Makerspace Quest
+
+Ren'Py game in the Uppsala Makerspace.
