@@ -1,0 +1,42 @@
+site_name: Uppsala Makerspace Quest
+repo_url: https://github.com/richelbilderbeek/ums_quest
+edit_uri: blob/main/docs/
+
+nav:
+  - Start: README.md
+
+not_in_nav: |
+  communication/20250304/README.md
+  communication/20250304/newsletter_first_announcement.md
+
+theme:
+  name: material
+  greetings: Welcome to the Uppsala Makerspace Quest homepage
+  font:
+    text: Lato
+    code: JetBrains Mono
+  logo: logo/ums_logo_simple.png
+  palette:
+    primary: indigo
+
+  # Keyboard shortcuts for navigation, from https://www.mkdocs.org/user-guide/choosing-your-theme/
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.expand
+    - search.suggest
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
+    - content.action.view
