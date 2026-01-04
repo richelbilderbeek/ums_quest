@@ -4,6 +4,7 @@ edit_uri: blob/main/docs/
 
 nav:
   - Start: README.md
+  - contributing.md
 
 not_in_nav: |
   communication/20250304/README.md
