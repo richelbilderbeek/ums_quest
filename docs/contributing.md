@@ -8,14 +8,17 @@ tags:
 
 # Contributing
 
-Awesome that you are reading this.
+One of the goals of UMS Quest is to be expanded upon by members.
+
+So, it is awesome that you are reading this!
 
 This GitHub follows the [Contributor Covenant Code of Conduct](code_of_conduct.md).
 
 - You want to help? Awesome! See [the 'Helping' section](#helping)
-- For reporting bugs, see [how to report a bug](report_a_bug.md)
-- For questions, you can create an Issue
-- Code changes go via Pull Requests
+- [Not ready yet] For reporting bugs, see [how to report a bug](report_a_bug.md)
+- For questions, you can
+  [create an issue](https://github.com/richelbilderbeek/ums_quest/issues)
+- [Not ready yet] Code changes go via Pull Requests
 
 ## Helping
 
@@ -24,7 +27,7 @@ Here are some ways to improve it:
 
 - Help by by playing the game,
   see [How to help as a beta tester](help_as_beta_tester.md)
-- Help by writing code,
+- [Not ready yet] Help by writing code,
   see [How to help as a developer](help_as_developer.md)
 - Help by improving artwork,
   see [How to help as a graphical artist](help_as_graphical_artist.md)
@@ -35,9 +38,11 @@ Here are some ways to improve it:
 
 Submitted code should follow these quality guidelines:
 
-- The submitted code is considered useful
-- The submitted code is tested 100%
-- All other tests pass keep passing
+- The submitted code makes the game better,
+  where 'better' can mean (1) more game content that is not considered
+  vandalism, (2) positive change to existing game content.
+- [Not ready yet] The submitted code is tested 100%
+- [Not ready yet] All other tests pass keep passing
 
 Emails with code will not be accepted.
 
@@ -45,7 +50,7 @@ Emails with code will not be accepted.
 
 Awesome. These are your options:
 
-- Add an issue, with the test that fails
+- [Create an issue](https://github.com/richelbilderbeek/ums_quest/issues).
 - Submit a pull request, with the failing test, to the
   `main` or `develop` branch
 - Send [`richelbilderbeek`](https://github.com/richelbilderbeek) an email.
