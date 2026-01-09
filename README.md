@@ -4,6 +4,11 @@ Ren'Py game in the Uppsala Makerspace.
 
 - [Go to the nicely rendered site](https://richelbilderbeek.github.io/ums_quest)
 
+## Resource licences
+
+- The font [DM Mono](https://fonts.google.com/specimen/DM+Mono) is used
+  and has [the SIL Open Font License v1.1](game/OFL.txt)
+
 ## Files used by continuous integration scripts
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
